@@ -2,15 +2,7 @@ package Medium;
 
 import java.util.Stack;
 
-class TreeNode{
-	int val;
-	TreeNode left;
-	TreeNode right;
-	
-	TreeNode(int d){
-		val = d;
-	}
-}
+
 
 public class FlattenBinaryTree2LinkedList {
 	
